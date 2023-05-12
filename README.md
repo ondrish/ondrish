@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ondrish
-- 👀 I’m interested in Linux, video editing, gaming and D&D.  
+- 👀 I’m interested in macOS, Linux, photography, video editing, gaming and D&D.  
 - 🌱 I’m currently learning alot of stuff :D adding Linux to my macOS main machine. 
 - 💞️ I’m looking to collaborate on whatever comes by :)
 - 📫 How to reach me ... @TODO
