@@ -1,10 +1,12 @@
-# Ondrej Jariabka
+<img src="profile.png" alt="Ondrej with his dog Darwin" width="160" align="right">
 
-**Apple device management for business** · Jamf Pro · macOS · iOS · iPadOS
+# Hi, I'm Ondrej 👋
 
-I help organisations deploy, secure and support their Apple devices at scale. Over more than 15 years I have worked across the full range, from small businesses running a handful of Macs to enterprise and banking fleets with thousands of devices.
+I help businesses get the most out of their Apple devices. For more than 15 years I have worked with Macs, iPhones and iPads at work, from small offices with a handful of devices to enterprise and banking fleets with thousands.
 
-### Expertise
+What I enjoy most is making device management feel invisible: new starters unbox a Mac and it is ready, updates arrive on time, and IT teams spend their days on real work instead of chasing settings.
+
+### What I work with
 - **Device management:** Jamf Pro, Automated Device Enrollment, Apple Business Manager, configuration profiles and policies
 - **Apple platforms:** macOS, iOS and iPadOS, from hardware and support through to fleet architecture
 - **Automation:** Jamf Pro API, zsh and bash scripting
@@ -12,12 +14,12 @@ I help organisations deploy, secure and support their Apple devices at scale. Ov
 ### Certifications
 Jamf Certified Admin · Jamf Certified Tech · Apple Certified Trainer
 
-### Services
-Jamf Pro implementation and management, fleet audits, migrations, and consulting for teams of any size.
+### How I can help
+Whether you are rolling out your first ten Macs or tidying up a fleet of thousands, I am happy to help with Jamf Pro setup and management, fleet reviews, migrations, or simply a second opinion.
 
-### Contact
+### Get in touch
 📍 Prague, Czech Republic<br>
 🏢 Inalogy<br>
 💼 [LinkedIn](https://www.linkedin.com/in/ondrejjariabka)
 
-<sub>The public repositories here are personal projects: Linux desktop theming and Nord colour schemes.</sub>
+<sub>The public repositories here are personal projects: Linux desktop theming and Nord colour schemes. The dog in the photo is Darwin, my usual travel companion.</sub>
