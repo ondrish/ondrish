@@ -1,6 +1,8 @@
-<img src="profile.png" alt="Ondrej with his dog Darwin" width="160" align="right">
+<p align="center">
+  <img src="profile.png" alt="Ondrej with his dog Darwin" width="160">
+</p>
 
-# Hi, I'm Ondrej 👋
+<h1 align="center">Hi, I'm Ondrej 👋</h1>
 
 I help businesses get the most out of their Apple devices. For more than 15 years I have worked with Macs, iPhones and iPads at work, from small offices with a handful of devices to enterprise and banking fleets with thousands.
 
